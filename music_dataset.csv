@@ -1,0 +1,9 @@
+artist,album,released_year,length_min_sec,genre,music_recording_sales_millions,claimed_sales_millions,date_released,soundtrack,rating_of_friends
+Michael Jackson,Thriller,1982,42:19:00,"Pop, rock, R&B",46,65,30/11/82,N,10
+AC/DC,Back in Black,1980,42:11:00,Hard rock,26.1,50,25/07/80,N,8.5
+Pink Floyd,The Dark Side of the Moon,1973,42:49:00,Prigressive rock,24.2,45,01/03/73,N,9.5
+Whtney Houston,The Bodyguard,1992,57:44:00,"R&B, soul, pop",27.4,44,17/11/92,Y,7.5
+Meat Loaf,Bat Out of Hell,1977,46:33:00,"Hard rock, progressive rock",20.6,43,21/10/77,N,7
+Eagles,Their Greatest Hits (1971-1975),1976,43:08:00,"rock, soft rock, folk rock",32.2,42,17/02/76,N,9
+Bee Gees,Saturday Night Fever,1977,01:15:54,Disco,20.6,40,15/11/77,Y,8.5
+Fleetwood Mac,Rumours,1977,40:01:00,Soft rock,27.9,40,04/02/77,N,9.5
